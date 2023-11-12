@@ -11,6 +11,15 @@ Alibaba 开发团队推荐了三者的依赖关系
 
 [版本说明](https://github.com/alibaba/spring-cloud-alibaba/wiki/%E7%89%88%E6%9C%AC%E8%AF%B4%E6%98%8E)
 
+Maven POM
+```xml
+  <dependency>
+     <groupId>com.bmyu.cloud</groupId>
+      <artifactId>bmyu-base</artifactId>
+      <version>2.7.6-2021.0.5</version>
+  </dependency>
+```
+
 |版本| SpringBoot | Spring CLoud | Spring Alibaba |
 | --- | --- | --- | --- |
 | 2.7.6-2021.0.5| 2.7.6| 2021.0.5 | 2021.0.5 |
