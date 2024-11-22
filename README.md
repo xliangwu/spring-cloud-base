@@ -14,12 +14,15 @@ Alibaba 开发团队推荐了三者的依赖关系
 Maven POM
 ```xml
   <dependency>
-     <groupId>com.bmyu.cloud</groupId>
-      <artifactId>bmyu-base</artifactId>
-      <version>2.7.6-2021.0.5</version>
+     <groupId>com.nowcode.cloud</groupId>
+      <artifactId>spring-cloud-base</artifactId>
+      <version>3.2-SNAPSHOT</version>
   </dependency>
 ```
 
 |版本| SpringBoot | Spring CLoud | Spring Alibaba |
 | --- | --- | --- | --- |
-| 2.7.6-2021.0.5| 2.7.6| 2021.0.5 | 2021.0.5 |
+| 3.2-SNAPSHOT| 3.2.11| 2023.0.0 | 2023.0.0.0-RC1 |
+
+# 相关文档
+- [Spring Cloud Alibaba](https://sca.aliyun.com/docs/2023/overview/what-is-sca/?spm=5176.29160081.0.0.74805c72x9tGJs)
